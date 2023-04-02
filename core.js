@@ -7,7 +7,7 @@
 
 function build_embed_src() {
     // Variables
-        const base_url = 'https://webchat.romaniachat.eu';
+        const base_url = 'https://kiwi.romaniachat.eu';
 	const port = '8443';
 	const nick = 'User??';
 	const theme = 'osprey';
